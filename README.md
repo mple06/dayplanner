@@ -8,4 +8,4 @@ Life can get crazy! With this scheduler, you can plan out your day so it's not s
 Link:
 https://mple06.github.io/dayplanner/
 
-![image](https://user-images.githubusercontent.com/90426657/135736424-6a5ed88d-2666-4b50-8653-7216fa5cbb2d.png)
+![image](https://user-images.githubusercontent.com/90426657/136731021-0b5aa199-05af-4994-80d8-dfcfcf1197ee.png)
